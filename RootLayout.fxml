@@ -50,6 +50,10 @@
                 <Menu mnemonicParsing="false" text="View">
                     <items>
                         <MenuItem mnemonicParsing="false" onAction="#viewTreeAction" text="Lineage tree" />
+                      
+                      /** TIMELINE MENU ITEM WAS ADDED HERE
+                      **/
+                      
                         <MenuItem mnemonicParsing="false" onAction="#viewTimeline" text="Timeline" />
 
                         

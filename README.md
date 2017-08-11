@@ -21,3 +21,7 @@ that show the Note tag name and tag contents on hover. It also actively rebuilds
 •	TimelineStage added in rootlayoutController and new method viewTimeline is created
 •	ViewTimeline method added to RootLayoutController and FXML file
 
+#### IMPORTANT NOTE
+I have included the classes that I altered/added to in order for the timeline to launch successfully. Please use these classes instead of original ones when launching WormGUIDES or add changes manually. I have added extra comments so it is easy to see where the changes were made.
+
+

@@ -16,6 +16,7 @@ that show the Note tag name and tag contents on hover. It also actively rebuilds
 
 #### Changes in Original Source
 •	New folder for Timeline which contains Timeline class and CSS styleclass
+•	timelineChart was added into StoriesLayer constructor
 •	Timeline stage variable and Timelinechart added into rebuildSubsceneFlag listener in Window3DController
 •	TimelineStage added in rootlayoutController and new method viewTimeline is created
 •	ViewTimeline method added to RootLayoutController and FXML file

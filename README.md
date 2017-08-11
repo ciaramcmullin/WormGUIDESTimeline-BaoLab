@@ -10,8 +10,8 @@ addition to the application WormGUIDES. In order to understand this addition and
 code.
 
 #### About
-The Timeline chart was created using IntellJ. It is used for another view of the Stories and Notes. It is unqiue to the 
-application because it shows how indivual cells are connected in each Story. The Timeline Chart displays the series for each cell 
+The Timeline chart was created using IntellJ. It is used for another view of the Stories and Notes. It is unique to the 
+application because it shows how individual cells are connected in each Story. The Timeline Chart displays the series for each cell 
 that show the Note tag name and tag contents on hover. It also actively rebuilds itself when a change is made to a Story, Note, or window.
 
 #### Changes in Original Source
